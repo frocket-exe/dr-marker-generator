@@ -1,6 +1,29 @@
 swears = ["fuck", "shit"]
 keywords = ["max", "video"]
+edlTitle = "bbnos RAW"
+fps = 60
+markingColors = {"swear": "Red", "keyword": "Yellow"}
 markers = []
+
+def getDuration(tIn, tOut):
+    hours = int(tOut[0:2]) - int(tIn[0:2])
+    mins = int(tOut[3:5]) - int(tIn[3:5])
+    secs = int(tOut[6:8]) - int(tIn[6:8])
+    frames = (int(tOut[9:12])-int(tIn[9:12]))/1000*fps
+    frames += (secs + mins*60 + hours*3600)*fps
+    return round(frames)
+
+def contains(list, content):
+    for word in content.split(" "):
+        for item in list:
+            if item.lower() in word.lower():
+                return True
+    return False
+
+def tcToTs(timecode):
+    timestamp = timecode[:8]
+    timestamp += f":{str(round(int(timecode[9:12])/1000*fps)).zfill(len(str(fps)))}"
+    return timestamp
 
 with open("Subtitle 1.srt") as f:
     file = f.read()
@@ -9,13 +32,12 @@ with open("Subtitle 1.srt") as f:
 for caption in captions:
     parts = caption.split("\n")
     content = parts[2][3:-4]
-    for word in content.split(" "):
-        if word in swears:
-            marking = "swear"
-        elif word in keywords:
-            marking = "keyword"
-        else:
-            marking = None
+    if contains(swears, content):
+        marking = "swear"
+    elif contains(keywords, content):
+        marking = "keyword"
+    else:
+        marking = None
     if marking != None:
         time = parts[1]
         timeParts = time.split(" ")
@@ -24,5 +46,15 @@ for caption in captions:
         marker = {"timeIn":timeIn, "timeOut":timeOut, "marking":marking, "content":content}
         markers.append(marker)
 
+edlHeader = f"TITLE: {edlTitle}\nFCM: NON-DROP FRAME\n\n"
+edlTxt = edlHeader
+
+i = 0
 for m in markers:
-    print(m)
+    i += 1
+    edlTxt += f"{str(i).zfill(3)}  001      V     C        {tcToTs(m["timeIn"])} {tcToTs(m["timeOut"])} {tcToTs(m["timeIn"])} {tcToTs(m["timeOut"])}\n"
+    edlTxt += f" |C:ResolveColor{markingColors.get(m["marking"])} |M:{m["marking"]} {i} |D:{getDuration(m["timeIn"], m["timeOut"])}\n\n"
+
+with open("output.edl", "w") as f:
+    f.write(edlTxt)
+    f.close()
