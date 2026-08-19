@@ -1,57 +1,900 @@
-TITLE: bbnos RAW
+TITLE: sayBiome
 FCM: NON-DROP FRAME
 
-001  001      V     C        00:00:01:14 00:00:01:36 00:00:01:14 00:00:01:36
- |C:ResolveColorYellow |M:keyword 1 |D:22
+001  001      V     C        00:00:59:34 00:00:59:55 00:00:59:34 00:00:59:55
+ |C:ResolveColorRed |M:swear 1 |D:22
 
-002  001      V     C        00:00:01:59 00:00:02:10 00:00:01:59 00:00:02:10
- |C:ResolveColorYellow |M:keyword 2 |D:11
+002  001      V     C        00:01:25:00 00:01:25:30 00:01:25:00 00:01:25:30
+ |C:ResolveColorYellow |M:keyword 2 |D:30
 
-003  001      V     C        00:00:10:25 00:00:10:44 00:00:10:25 00:00:10:44
- |C:ResolveColorYellow |M:keyword 3 |D:19
+003  001      V     C        00:01:26:48 00:01:27:00 00:01:26:48 00:01:27:00
+ |C:ResolveColorYellow |M:keyword 3 |D:12
 
-004  001      V     C        00:00:10:44 00:00:11:15 00:00:10:44 00:00:11:15
- |C:ResolveColorYellow |M:keyword 4 |D:31
+004  001      V     C        00:01:27:00 00:01:27:20 00:01:27:00 00:01:27:20
+ |C:ResolveColorYellow |M:keyword 4 |D:20
 
-005  001      V     C        00:00:33:59 00:00:34:32 00:00:33:59 00:00:34:32
- |C:ResolveColorYellow |M:keyword 5 |D:33
+005  001      V     C        00:04:39:36 00:04:39:49 00:04:39:36 00:04:39:49
+ |C:ResolveColorYellow |M:keyword 5 |D:13
 
-006  001      V     C        00:00:53:45 00:00:54:12 00:00:53:45 00:00:54:12
- |C:ResolveColorYellow |M:keyword 6 |D:27
+006  001      V     C        00:04:40:36 00:04:41:42 00:04:40:36 00:04:41:42
+ |C:ResolveColorYellow |M:keyword 6 |D:66
 
-007  001      V     C        00:01:05:14 00:01:05:29 00:01:05:14 00:01:05:29
- |C:ResolveColorYellow |M:keyword 7 |D:15
+007  001      V     C        00:04:41:42 00:04:42:26 00:04:41:42 00:04:42:26
+ |C:ResolveColorYellow |M:keyword 7 |D:44
 
-008  001      V     C        00:01:05:29 00:01:06:01 00:01:05:29 00:01:06:01
- |C:ResolveColorYellow |M:keyword 8 |D:32
+008  001      V     C        00:04:56:59 00:04:57:28 00:04:56:59 00:04:57:28
+ |C:ResolveColorYellow |M:keyword 8 |D:29
 
-009  001      V     C        00:01:16:31 00:01:16:55 00:01:16:31 00:01:16:55
- |C:ResolveColorYellow |M:keyword 9 |D:24
+009  001      V     C        00:05:03:25 00:05:03:48 00:05:03:25 00:05:03:48
+ |C:ResolveColorYellow |M:keyword 9 |D:23
 
-010  001      V     C        00:01:17:16 00:01:18:29 00:01:17:16 00:01:18:29
- |C:ResolveColorYellow |M:keyword 10 |D:73
+010  001      V     C        00:05:03:48 00:05:04:32 00:05:03:48 00:05:04:32
+ |C:ResolveColorYellow |M:keyword 10 |D:44
 
-011  001      V     C        00:01:19:05 00:01:19:38 00:01:19:05 00:01:19:38
- |C:ResolveColorYellow |M:keyword 11 |D:33
+011  001      V     C        00:05:59:14 00:05:59:31 00:05:59:14 00:05:59:31
+ |C:ResolveColorRed |M:swear 11 |D:17
 
-012  001      V     C        00:01:22:23 00:01:22:41 00:01:22:23 00:01:22:41
- |C:ResolveColorYellow |M:keyword 12 |D:18
+012  001      V     C        00:06:02:05 00:06:02:25 00:06:02:05 00:06:02:25
+ |C:ResolveColorRed |M:swear 12 |D:20
 
-013  001      V     C        00:03:41:58 00:03:42:23 00:03:41:58 00:03:42:23
- |C:ResolveColorYellow |M:keyword 13 |D:25
+013  001      V     C        00:06:06:25 00:06:06:48 00:06:06:25 00:06:06:48
+ |C:ResolveColorYellow |M:keyword 13 |D:23
 
-014  001      V     C        00:03:46:58 00:03:47:20 00:03:46:58 00:03:47:20
- |C:ResolveColorYellow |M:keyword 14 |D:22
+014  001      V     C        00:07:16:19 00:07:16:32 00:07:16:19 00:07:16:32
+ |C:ResolveColorRed |M:swear 14 |D:13
 
-015  001      V     C        00:03:48:39 00:03:48:53 00:03:48:39 00:03:48:53
- |C:ResolveColorRed |M:swear 15 |D:14
+015  001      V     C        00:07:35:04 00:07:35:35 00:07:35:04 00:07:35:35
+ |C:ResolveColorYellow |M:keyword 15 |D:31
 
-016  001      V     C        00:03:49:20 00:03:49:37 00:03:49:20 00:03:49:37
- |C:ResolveColorYellow |M:keyword 16 |D:17
+016  001      V     C        00:07:37:02 00:07:38:05 00:07:37:02 00:07:38:05
+ |C:ResolveColorYellow |M:keyword 16 |D:62
 
-017  001      V     C        00:04:45:35 00:04:46:00 00:04:45:35 00:04:46:00
- |C:ResolveColorYellow |M:keyword 17 |D:25
+017  001      V     C        00:07:38:05 00:07:38:48 00:07:38:05 00:07:38:48
+ |C:ResolveColorYellow |M:keyword 17 |D:43
 
-018  001      V     C        00:04:46:00 00:04:46:42 00:04:46:00 00:04:46:42
- |C:ResolveColorYellow |M:keyword 18 |D:42
+018  001      V     C        00:08:58:02 00:08:58:49 00:08:58:02 00:08:58:49
+ |C:ResolveColorYellow |M:keyword 18 |D:47
+
+019  001      V     C        00:09:24:05 00:09:24:38 00:09:24:05 00:09:24:38
+ |C:ResolveColorYellow |M:keyword 19 |D:34
+
+020  001      V     C        00:09:25:12 00:09:25:52 00:09:25:12 00:09:25:52
+ |C:ResolveColorYellow |M:keyword 20 |D:40
+
+021  001      V     C        00:09:25:52 00:09:26:18 00:09:25:52 00:09:26:18
+ |C:ResolveColorYellow |M:keyword 21 |D:26
+
+022  001      V     C        00:09:59:52 00:10:00:54 00:09:59:52 00:10:00:54
+ |C:ResolveColorYellow |M:keyword 22 |D:62
+
+023  001      V     C        00:10:00:54 00:10:02:00 00:10:00:54 00:10:02:00
+ |C:ResolveColorYellow |M:keyword 23 |D:66
+
+024  001      V     C        00:10:02:00 00:10:02:24 00:10:02:00 00:10:02:24
+ |C:ResolveColorYellow |M:keyword 24 |D:24
+
+025  001      V     C        00:10:07:53 00:10:08:35 00:10:07:53 00:10:08:35
+ |C:ResolveColorYellow |M:keyword 25 |D:42
+
+026  001      V     C        00:10:08:35 00:10:09:35 00:10:08:35 00:10:09:35
+ |C:ResolveColorYellow |M:keyword 26 |D:60
+
+027  001      V     C        00:10:09:35 00:10:09:53 00:10:09:35 00:10:09:53
+ |C:ResolveColorYellow |M:keyword 27 |D:18
+
+028  001      V     C        00:10:09:53 00:10:10:23 00:10:09:53 00:10:10:23
+ |C:ResolveColorYellow |M:keyword 28 |D:30
+
+029  001      V     C        00:10:15:46 00:10:16:28 00:10:15:46 00:10:16:28
+ |C:ResolveColorYellow |M:keyword 29 |D:42
+
+030  001      V     C        00:10:19:32 00:10:20:14 00:10:19:32 00:10:20:14
+ |C:ResolveColorYellow |M:keyword 30 |D:42
+
+031  001      V     C        00:10:20:14 00:10:21:14 00:10:20:14 00:10:21:14
+ |C:ResolveColorYellow |M:keyword 31 |D:60
+
+032  001      V     C        00:10:21:14 00:10:21:41 00:10:21:14 00:10:21:41
+ |C:ResolveColorYellow |M:keyword 32 |D:26
+
+033  001      V     C        00:10:25:14 00:10:25:36 00:10:25:14 00:10:25:36
+ |C:ResolveColorYellow |M:keyword 33 |D:22
+
+034  001      V     C        00:10:51:10 00:10:51:22 00:10:51:10 00:10:51:22
+ |C:ResolveColorRed |M:swear 34 |D:12
+
+035  001      V     C        00:15:15:25 00:15:15:46 00:15:15:25 00:15:15:46
+ |C:ResolveColorYellow |M:keyword 35 |D:20
+
+036  001      V     C        00:16:56:10 00:16:56:24 00:16:56:10 00:16:56:24
+ |C:ResolveColorYellow |M:keyword 36 |D:14
+
+037  001      V     C        00:17:29:22 00:17:29:52 00:17:29:22 00:17:29:52
+ |C:ResolveColorYellow |M:keyword 37 |D:30
+
+038  001      V     C        00:17:30:14 00:17:30:31 00:17:30:14 00:17:30:31
+ |C:ResolveColorYellow |M:keyword 38 |D:17
+
+039  001      V     C        00:17:31:44 00:17:32:08 00:17:31:44 00:17:32:08
+ |C:ResolveColorYellow |M:keyword 39 |D:24
+
+040  001      V     C        00:17:32:08 00:17:32:50 00:17:32:08 00:17:32:50
+ |C:ResolveColorYellow |M:keyword 40 |D:42
+
+041  001      V     C        00:17:43:41 00:17:43:53 00:17:43:41 00:17:43:53
+ |C:ResolveColorYellow |M:keyword 41 |D:12
+
+042  001      V     C        00:18:12:05 00:18:12:18 00:18:12:05 00:18:12:18
+ |C:ResolveColorYellow |M:keyword 42 |D:13
+
+043  001      V     C        00:18:17:17 00:18:17:29 00:18:17:17 00:18:17:29
+ |C:ResolveColorYellow |M:keyword 43 |D:12
+
+044  001      V     C        00:19:16:54 00:19:17:25 00:19:16:54 00:19:17:25
+ |C:ResolveColorYellow |M:keyword 44 |D:31
+
+045  001      V     C        00:19:17:25 00:19:18:48 00:19:17:25 00:19:18:48
+ |C:ResolveColorYellow |M:keyword 45 |D:83
+
+046  001      V     C        00:19:18:48 00:19:19:19 00:19:18:48 00:19:19:19
+ |C:ResolveColorYellow |M:keyword 46 |D:31
+
+047  001      V     C        00:19:32:30 00:19:32:50 00:19:32:30 00:19:32:50
+ |C:ResolveColorRed |M:swear 47 |D:20
+
+048  001      V     C        00:19:47:10 00:19:47:38 00:19:47:10 00:19:47:38
+ |C:ResolveColorYellow |M:keyword 48 |D:29
+
+049  001      V     C        00:19:48:23 00:19:48:41 00:19:48:23 00:19:48:41
+ |C:ResolveColorYellow |M:keyword 49 |D:18
+
+050  001      V     C        00:19:48:41 00:19:49:23 00:19:48:41 00:19:49:23
+ |C:ResolveColorYellow |M:keyword 50 |D:42
+
+051  001      V     C        00:19:49:34 00:19:49:44 00:19:49:34 00:19:49:44
+ |C:ResolveColorYellow |M:keyword 51 |D:11
+
+052  001      V     C        00:21:06:42 00:21:06:59 00:21:06:42 00:21:06:59
+ |C:ResolveColorYellow |M:keyword 52 |D:17
+
+053  001      V     C        00:21:09:22 00:21:10:14 00:21:09:22 00:21:10:14
+ |C:ResolveColorYellow |M:keyword 53 |D:53
+
+054  001      V     C        00:21:33:43 00:21:33:59 00:21:33:43 00:21:33:59
+ |C:ResolveColorYellow |M:keyword 54 |D:17
+
+055  001      V     C        00:22:07:44 00:22:08:11 00:22:07:44 00:22:08:11
+ |C:ResolveColorYellow |M:keyword 55 |D:28
+
+056  001      V     C        00:22:08:11 00:22:09:09 00:22:08:11 00:22:09:09
+ |C:ResolveColorYellow |M:keyword 56 |D:58
+
+057  001      V     C        00:22:09:09 00:22:09:26 00:22:09:09 00:22:09:26
+ |C:ResolveColorYellow |M:keyword 57 |D:17
+
+058  001      V     C        00:22:09:26 00:22:09:53 00:22:09:26 00:22:09:53
+ |C:ResolveColorYellow |M:keyword 58 |D:28
+
+059  001      V     C        00:22:30:23 00:22:31:16 00:22:30:23 00:22:31:16
+ |C:ResolveColorYellow |M:keyword 59 |D:53
+
+060  001      V     C        00:22:31:16 00:22:32:09 00:22:31:16 00:22:32:09
+ |C:ResolveColorYellow |M:keyword 60 |D:53
+
+061  001      V     C        00:22:32:09 00:22:32:26 00:22:32:09 00:22:32:26
+ |C:ResolveColorYellow |M:keyword 61 |D:17
+
+062  001      V     C        00:22:32:26 00:22:32:52 00:22:32:26 00:22:32:52
+ |C:ResolveColorYellow |M:keyword 62 |D:26
+
+063  001      V     C        00:22:32:52 00:22:34:41 00:22:32:52 00:22:34:41
+ |C:ResolveColorYellow |M:keyword 63 |D:109
+
+064  001      V     C        00:22:34:41 00:22:35:51 00:22:34:41 00:22:35:51
+ |C:ResolveColorYellow |M:keyword 64 |D:70
+
+065  001      V     C        00:22:35:51 00:22:36:09 00:22:35:51 00:22:36:09
+ |C:ResolveColorYellow |M:keyword 65 |D:18
+
+066  001      V     C        00:22:36:09 00:22:36:35 00:22:36:09 00:22:36:35
+ |C:ResolveColorYellow |M:keyword 66 |D:26
+
+067  001      V     C        00:22:47:23 00:22:48:22 00:22:47:23 00:22:48:22
+ |C:ResolveColorYellow |M:keyword 67 |D:59
+
+068  001      V     C        00:22:48:22 00:22:49:16 00:22:48:22 00:22:49:16
+ |C:ResolveColorYellow |M:keyword 68 |D:54
+
+069  001      V     C        00:22:49:16 00:22:49:33 00:22:49:16 00:22:49:33
+ |C:ResolveColorYellow |M:keyword 69 |D:17
+
+070  001      V     C        00:22:49:33 00:22:49:59 00:22:49:33 00:22:49:59
+ |C:ResolveColorYellow |M:keyword 70 |D:26
+
+071  001      V     C        00:22:52:59 00:22:53:27 00:22:52:59 00:22:53:27
+ |C:ResolveColorYellow |M:keyword 71 |D:28
+
+072  001      V     C        00:22:53:27 00:22:54:22 00:22:53:27 00:22:54:22
+ |C:ResolveColorYellow |M:keyword 72 |D:55
+
+073  001      V     C        00:22:54:22 00:22:54:43 00:22:54:22 00:22:54:43
+ |C:ResolveColorYellow |M:keyword 73 |D:20
+
+074  001      V     C        00:22:54:43 00:22:55:10 00:22:54:43 00:22:55:10
+ |C:ResolveColorYellow |M:keyword 74 |D:28
+
+075  001      V     C        00:24:03:16 00:24:04:20 00:24:03:16 00:24:04:20
+ |C:ResolveColorYellow |M:keyword 75 |D:64
+
+076  001      V     C        00:24:04:20 00:24:04:49 00:24:04:20 00:24:04:49
+ |C:ResolveColorYellow |M:keyword 76 |D:29
+
+077  001      V     C        00:24:10:37 00:24:10:46 00:24:10:37 00:24:10:46
+ |C:ResolveColorYellow |M:keyword 77 |D:10
+
+078  001      V     C        00:24:50:19 00:24:50:45 00:24:50:19 00:24:50:45
+ |C:ResolveColorYellow |M:keyword 78 |D:26
+
+079  001      V     C        00:25:11:49 00:25:11:59 00:25:11:49 00:25:11:59
+ |C:ResolveColorRed |M:swear 79 |D:11
+
+080  001      V     C        00:25:32:22 00:25:32:57 00:25:32:22 00:25:32:57
+ |C:ResolveColorYellow |M:keyword 80 |D:35
+
+081  001      V     C        00:25:32:57 00:25:33:32 00:25:32:57 00:25:33:32
+ |C:ResolveColorYellow |M:keyword 81 |D:35
+
+082  001      V     C        00:25:33:32 00:25:33:50 00:25:33:32 00:25:33:50
+ |C:ResolveColorYellow |M:keyword 82 |D:18
+
+083  001      V     C        00:25:33:50 00:25:34:17 00:25:33:50 00:25:34:17
+ |C:ResolveColorYellow |M:keyword 83 |D:28
+
+084  001      V     C        00:27:36:57 00:27:37:22 00:27:36:57 00:27:37:22
+ |C:ResolveColorYellow |M:keyword 84 |D:25
+
+085  001      V     C        00:28:07:39 00:28:07:53 00:28:07:39 00:28:07:53
+ |C:ResolveColorRed |M:swear 85 |D:14
+
+086  001      V     C        00:28:37:38 00:28:37:51 00:28:37:38 00:28:37:51
+ |C:ResolveColorYellow |M:keyword 86 |D:13
+
+087  001      V     C        00:28:38:51 00:28:39:16 00:28:38:51 00:28:39:16
+ |C:ResolveColorYellow |M:keyword 87 |D:25
+
+088  001      V     C        00:28:39:16 00:28:40:10 00:28:39:16 00:28:40:10
+ |C:ResolveColorYellow |M:keyword 88 |D:54
+
+089  001      V     C        00:29:30:45 00:29:31:16 00:29:30:45 00:29:31:16
+ |C:ResolveColorRed |M:swear 89 |D:31
+
+090  001      V     C        00:30:20:52 00:30:21:09 00:30:20:52 00:30:21:09
+ |C:ResolveColorRed |M:swear 90 |D:17
+
+091  001      V     C        00:30:23:01 00:30:23:15 00:30:23:01 00:30:23:15
+ |C:ResolveColorYellow |M:keyword 91 |D:14
+
+092  001      V     C        00:30:59:47 00:31:00:10 00:30:59:47 00:31:00:10
+ |C:ResolveColorYellow |M:keyword 92 |D:23
+
+093  001      V     C        00:31:04:53 00:31:05:31 00:31:04:53 00:31:05:31
+ |C:ResolveColorYellow |M:keyword 93 |D:37
+
+094  001      V     C        00:31:06:27 00:31:06:40 00:31:06:27 00:31:06:40
+ |C:ResolveColorYellow |M:keyword 94 |D:13
+
+095  001      V     C        00:31:06:40 00:31:07:01 00:31:06:40 00:31:07:01
+ |C:ResolveColorYellow |M:keyword 95 |D:20
+
+096  001      V     C        00:31:11:11 00:31:11:59 00:31:11:11 00:31:11:59
+ |C:ResolveColorYellow |M:keyword 96 |D:48
+
+097  001      V     C        00:31:13:10 00:31:13:26 00:31:13:10 00:31:13:26
+ |C:ResolveColorYellow |M:keyword 97 |D:16
+
+098  001      V     C        00:31:13:26 00:31:13:44 00:31:13:26 00:31:13:44
+ |C:ResolveColorYellow |M:keyword 98 |D:18
+
+099  001      V     C        00:31:13:44 00:31:14:09 00:31:13:44 00:31:14:09
+ |C:ResolveColorYellow |M:keyword 99 |D:25
+
+100  001      V     C        00:31:23:01 00:31:23:39 00:31:23:01 00:31:23:39
+ |C:ResolveColorYellow |M:keyword 100 |D:38
+
+101  001      V     C        00:32:15:33 00:32:16:22 00:32:15:33 00:32:16:22
+ |C:ResolveColorYellow |M:keyword 101 |D:49
+
+102  001      V     C        00:32:16:22 00:32:17:22 00:32:16:22 00:32:17:22
+ |C:ResolveColorYellow |M:keyword 102 |D:60
+
+103  001      V     C        00:32:17:22 00:32:17:59 00:32:17:22 00:32:17:59
+ |C:ResolveColorYellow |M:keyword 103 |D:37
+
+104  001      V     C        00:32:55:15 00:32:55:32 00:32:55:15 00:32:55:32
+ |C:ResolveColorRed |M:swear 104 |D:17
+
+105  001      V     C        00:33:31:37 00:33:31:55 00:33:31:37 00:33:31:55
+ |C:ResolveColorYellow |M:keyword 105 |D:18
+
+106  001      V     C        00:33:32:59 00:33:33:23 00:33:32:59 00:33:33:23
+ |C:ResolveColorYellow |M:keyword 106 |D:24
+
+107  001      V     C        00:33:33:23 00:33:33:47 00:33:33:23 00:33:33:47
+ |C:ResolveColorYellow |M:keyword 107 |D:24
+
+108  001      V     C        00:34:53:38 00:34:53:51 00:34:53:38 00:34:53:51
+ |C:ResolveColorRed |M:swear 108 |D:13
+
+109  001      V     C        00:36:46:07 00:36:46:25 00:36:46:07 00:36:46:25
+ |C:ResolveColorYellow |M:keyword 109 |D:18
+
+110  001      V     C        00:36:49:41 00:36:49:58 00:36:49:41 00:36:49:58
+ |C:ResolveColorYellow |M:keyword 110 |D:17
+
+111  001      V     C        00:36:51:02 00:36:51:27 00:36:51:02 00:36:51:27
+ |C:ResolveColorYellow |M:keyword 111 |D:25
+
+112  001      V     C        00:36:51:27 00:36:51:56 00:36:51:27 00:36:51:56
+ |C:ResolveColorYellow |M:keyword 112 |D:29
+
+113  001      V     C        00:36:53:33 00:36:53:59 00:36:53:33 00:36:53:59
+ |C:ResolveColorYellow |M:keyword 113 |D:26
+
+114  001      V     C        00:36:53:59 00:36:54:26 00:36:53:59 00:36:54:26
+ |C:ResolveColorYellow |M:keyword 114 |D:26
+
+115  001      V     C        00:36:54:26 00:36:55:07 00:36:54:26 00:36:55:07
+ |C:ResolveColorYellow |M:keyword 115 |D:41
+
+116  001      V     C        00:37:05:33 00:37:05:45 00:37:05:33 00:37:05:45
+ |C:ResolveColorRed |M:swear 116 |D:12
+
+117  001      V     C        00:37:11:29 00:37:11:58 00:37:11:29 00:37:11:58
+ |C:ResolveColorYellow |M:keyword 117 |D:29
+
+118  001      V     C        00:37:11:58 00:37:12:27 00:37:11:58 00:37:12:27
+ |C:ResolveColorYellow |M:keyword 118 |D:29
+
+119  001      V     C        00:37:12:27 00:37:12:57 00:37:12:27 00:37:12:57
+ |C:ResolveColorYellow |M:keyword 119 |D:30
+
+120  001      V     C        00:37:47:13 00:37:47:34 00:37:47:13 00:37:47:34
+ |C:ResolveColorYellow |M:keyword 120 |D:22
+
+121  001      V     C        00:37:57:19 00:37:57:38 00:37:57:19 00:37:57:38
+ |C:ResolveColorYellow |M:keyword 121 |D:19
+
+122  001      V     C        00:38:00:07 00:38:00:39 00:38:00:07 00:38:00:39
+ |C:ResolveColorYellow |M:keyword 122 |D:32
+
+123  001      V     C        00:38:14:55 00:38:15:33 00:38:14:55 00:38:15:33
+ |C:ResolveColorYellow |M:keyword 123 |D:38
+
+124  001      V     C        00:38:16:20 00:38:16:39 00:38:16:20 00:38:16:39
+ |C:ResolveColorYellow |M:keyword 124 |D:19
+
+125  001      V     C        00:38:16:39 00:38:17:11 00:38:16:39 00:38:17:11
+ |C:ResolveColorYellow |M:keyword 125 |D:32
+
+126  001      V     C        00:38:19:49 00:38:21:01 00:38:19:49 00:38:21:01
+ |C:ResolveColorYellow |M:keyword 126 |D:72
+
+127  001      V     C        00:38:21:01 00:38:21:37 00:38:21:01 00:38:21:37
+ |C:ResolveColorYellow |M:keyword 127 |D:36
+
+128  001      V     C        00:38:27:50 00:38:28:09 00:38:27:50 00:38:28:09
+ |C:ResolveColorYellow |M:keyword 128 |D:19
+
+129  001      V     C        00:39:04:23 00:39:05:08 00:39:04:23 00:39:05:08
+ |C:ResolveColorYellow |M:keyword 129 |D:44
+
+130  001      V     C        00:39:05:49 00:39:06:22 00:39:05:49 00:39:06:22
+ |C:ResolveColorYellow |M:keyword 130 |D:34
+
+131  001      V     C        00:39:52:41 00:39:53:07 00:39:52:41 00:39:53:07
+ |C:ResolveColorRed |M:swear 131 |D:25
+
+132  001      V     C        00:40:06:41 00:40:07:03 00:40:06:41 00:40:07:03
+ |C:ResolveColorYellow |M:keyword 132 |D:22
+
+133  001      V     C        00:40:08:56 00:40:09:39 00:40:08:56 00:40:09:39
+ |C:ResolveColorYellow |M:keyword 133 |D:43
+
+134  001      V     C        00:40:09:39 00:40:10:08 00:40:09:39 00:40:10:08
+ |C:ResolveColorYellow |M:keyword 134 |D:29
+
+135  001      V     C        00:42:21:33 00:42:22:10 00:42:21:33 00:42:22:10
+ |C:ResolveColorYellow |M:keyword 135 |D:37
+
+136  001      V     C        00:42:22:52 00:42:23:10 00:42:22:52 00:42:23:10
+ |C:ResolveColorYellow |M:keyword 136 |D:18
+
+137  001      V     C        00:42:23:10 00:42:23:29 00:42:23:10 00:42:23:29
+ |C:ResolveColorYellow |M:keyword 137 |D:19
+
+138  001      V     C        00:42:27:58 00:42:28:22 00:42:27:58 00:42:28:22
+ |C:ResolveColorYellow |M:keyword 138 |D:24
+
+139  001      V     C        00:42:28:22 00:42:29:33 00:42:28:22 00:42:29:33
+ |C:ResolveColorYellow |M:keyword 139 |D:71
+
+140  001      V     C        00:42:29:33 00:42:29:58 00:42:29:33 00:42:29:58
+ |C:ResolveColorYellow |M:keyword 140 |D:25
+
+141  001      V     C        00:43:10:35 00:43:11:16 00:43:10:35 00:43:11:16
+ |C:ResolveColorYellow |M:keyword 141 |D:41
+
+142  001      V     C        00:43:11:55 00:43:12:58 00:43:11:55 00:43:12:58
+ |C:ResolveColorYellow |M:keyword 142 |D:62
+
+143  001      V     C        00:43:12:58 00:43:13:42 00:43:12:58 00:43:13:42
+ |C:ResolveColorYellow |M:keyword 143 |D:44
+
+144  001      V     C        00:43:20:29 00:43:20:53 00:43:20:29 00:43:20:53
+ |C:ResolveColorYellow |M:keyword 144 |D:24
+
+145  001      V     C        00:43:29:00 00:43:29:16 00:43:29:00 00:43:29:16
+ |C:ResolveColorRed |M:swear 145 |D:16
+
+146  001      V     C        00:43:31:49 00:43:32:07 00:43:31:49 00:43:32:07
+ |C:ResolveColorYellow |M:keyword 146 |D:18
+
+147  001      V     C        00:43:34:24 00:43:35:17 00:43:34:24 00:43:35:17
+ |C:ResolveColorYellow |M:keyword 147 |D:53
+
+148  001      V     C        00:43:35:17 00:43:35:38 00:43:35:17 00:43:35:38
+ |C:ResolveColorYellow |M:keyword 148 |D:22
+
+149  001      V     C        00:44:18:16 00:44:19:01 00:44:18:16 00:44:19:01
+ |C:ResolveColorYellow |M:keyword 149 |D:46
+
+150  001      V     C        00:44:19:41 00:44:19:58 00:44:19:41 00:44:19:58
+ |C:ResolveColorYellow |M:keyword 150 |D:17
+
+151  001      V     C        00:44:19:58 00:44:20:25 00:44:19:58 00:44:20:25
+ |C:ResolveColorYellow |M:keyword 151 |D:28
+
+152  001      V     C        00:44:54:32 00:44:54:52 00:44:54:32 00:44:54:52
+ |C:ResolveColorYellow |M:keyword 152 |D:19
+
+153  001      V     C        00:44:55:30 00:44:55:47 00:44:55:30 00:44:55:47
+ |C:ResolveColorYellow |M:keyword 153 |D:17
+
+154  001      V     C        00:44:55:47 00:44:56:16 00:44:55:47 00:44:56:16
+ |C:ResolveColorYellow |M:keyword 154 |D:29
+
+155  001      V     C        00:45:46:49 00:45:47:06 00:45:46:49 00:45:47:06
+ |C:ResolveColorYellow |M:keyword 155 |D:17
+
+156  001      V     C        00:46:54:42 00:46:55:05 00:46:54:42 00:46:55:05
+ |C:ResolveColorYellow |M:keyword 156 |D:23
+
+157  001      V     C        00:46:55:48 00:46:56:48 00:46:55:48 00:46:56:48
+ |C:ResolveColorYellow |M:keyword 157 |D:60
+
+158  001      V     C        00:46:56:48 00:46:57:05 00:46:56:48 00:46:57:05
+ |C:ResolveColorYellow |M:keyword 158 |D:17
+
+159  001      V     C        00:46:57:05 00:46:57:34 00:46:57:05 00:46:57:34
+ |C:ResolveColorYellow |M:keyword 159 |D:29
+
+160  001      V     C        00:47:06:19 00:47:06:44 00:47:06:19 00:47:06:44
+ |C:ResolveColorYellow |M:keyword 160 |D:25
+
+161  001      V     C        00:47:06:59 00:47:07:17 00:47:06:59 00:47:07:17
+ |C:ResolveColorYellow |M:keyword 161 |D:18
+
+162  001      V     C        00:47:59:32 00:47:59:37 00:47:59:32 00:47:59:37
+ |C:ResolveColorRed |M:swear 162 |D:5
+
+163  001      V     C        00:47:59:43 00:48:00:04 00:47:59:43 00:48:00:04
+ |C:ResolveColorYellow |M:keyword 163 |D:20
+
+164  001      V     C        00:48:04:43 00:48:05:02 00:48:04:43 00:48:05:02
+ |C:ResolveColorYellow |M:keyword 164 |D:19
+
+165  001      V     C        00:48:27:23 00:48:27:42 00:48:27:23 00:48:27:42
+ |C:ResolveColorRed |M:swear 165 |D:19
+
+166  001      V     C        00:48:31:30 00:48:31:56 00:48:31:30 00:48:31:56
+ |C:ResolveColorYellow |M:keyword 166 |D:26
+
+167  001      V     C        00:49:45:13 00:49:45:32 00:49:45:13 00:49:45:32
+ |C:ResolveColorYellow |M:keyword 167 |D:19
+
+168  001      V     C        00:49:47:02 00:49:47:28 00:49:47:02 00:49:47:28
+ |C:ResolveColorYellow |M:keyword 168 |D:25
+
+169  001      V     C        00:49:47:28 00:49:47:44 00:49:47:28 00:49:47:44
+ |C:ResolveColorYellow |M:keyword 169 |D:17
+
+170  001      V     C        00:49:47:44 00:49:48:10 00:49:47:44 00:49:48:10
+ |C:ResolveColorYellow |M:keyword 170 |D:25
+
+171  001      V     C        00:50:03:42 00:50:04:10 00:50:03:42 00:50:04:10
+ |C:ResolveColorYellow |M:keyword 171 |D:28
+
+172  001      V     C        00:50:32:26 00:50:32:46 00:50:32:26 00:50:32:46
+ |C:ResolveColorYellow |M:keyword 172 |D:19
+
+173  001      V     C        00:50:33:36 00:50:34:16 00:50:33:36 00:50:34:16
+ |C:ResolveColorYellow |M:keyword 173 |D:40
+
+174  001      V     C        00:50:34:16 00:50:34:56 00:50:34:16 00:50:34:56
+ |C:ResolveColorYellow |M:keyword 174 |D:41
+
+175  001      V     C        00:50:38:46 00:50:39:17 00:50:38:46 00:50:39:17
+ |C:ResolveColorYellow |M:keyword 175 |D:31
+
+176  001      V     C        00:51:37:13 00:51:37:46 00:51:37:13 00:51:37:46
+ |C:ResolveColorYellow |M:keyword 176 |D:32
+
+177  001      V     C        00:51:37:46 00:51:39:07 00:51:37:46 00:51:39:07
+ |C:ResolveColorYellow |M:keyword 177 |D:82
+
+178  001      V     C        00:51:39:07 00:51:40:07 00:51:39:07 00:51:40:07
+ |C:ResolveColorYellow |M:keyword 178 |D:60
+
+179  001      V     C        00:52:27:25 00:52:28:00 00:52:27:25 00:52:28:00
+ |C:ResolveColorYellow |M:keyword 179 |D:35
+
+180  001      V     C        00:52:28:49 00:52:29:11 00:52:28:49 00:52:29:11
+ |C:ResolveColorYellow |M:keyword 180 |D:22
+
+181  001      V     C        00:52:29:11 00:52:29:41 00:52:29:11 00:52:29:41
+ |C:ResolveColorYellow |M:keyword 181 |D:30
+
+182  001      V     C        00:54:35:07 00:54:35:30 00:54:35:07 00:54:35:30
+ |C:ResolveColorYellow |M:keyword 182 |D:23
+
+183  001      V     C        00:54:36:18 00:54:36:28 00:54:36:18 00:54:36:28
+ |C:ResolveColorYellow |M:keyword 183 |D:10
+
+184  001      V     C        00:54:36:28 00:54:37:11 00:54:36:28 00:54:37:11
+ |C:ResolveColorYellow |M:keyword 184 |D:43
+
+185  001      V     C        00:55:05:11 00:55:05:29 00:55:05:11 00:55:05:29
+ |C:ResolveColorYellow |M:keyword 185 |D:18
+
+186  001      V     C        00:55:09:50 00:55:10:30 00:55:09:50 00:55:10:30
+ |C:ResolveColorYellow |M:keyword 186 |D:40
+
+187  001      V     C        00:55:11:06 00:55:11:34 00:55:11:06 00:55:11:34
+ |C:ResolveColorYellow |M:keyword 187 |D:28
+
+188  001      V     C        00:55:11:34 00:55:12:16 00:55:11:34 00:55:12:16
+ |C:ResolveColorYellow |M:keyword 188 |D:42
+
+189  001      V     C        00:55:25:54 00:55:26:20 00:55:25:54 00:55:26:20
+ |C:ResolveColorRed |M:swear 189 |D:26
+
+190  001      V     C        00:55:29:55 00:55:30:05 00:55:29:55 00:55:30:05
+ |C:ResolveColorYellow |M:keyword 190 |D:10
+
+191  001      V     C        00:56:26:40 00:56:27:11 00:56:26:40 00:56:27:11
+ |C:ResolveColorYellow |M:keyword 191 |D:31
+
+192  001      V     C        00:56:28:08 00:56:28:42 00:56:28:08 00:56:28:42
+ |C:ResolveColorYellow |M:keyword 192 |D:34
+
+193  001      V     C        00:56:29:08 00:56:29:43 00:56:29:08 00:56:29:43
+ |C:ResolveColorYellow |M:keyword 193 |D:35
+
+194  001      V     C        00:56:31:04 00:56:31:24 00:56:31:04 00:56:31:24
+ |C:ResolveColorYellow |M:keyword 194 |D:20
+
+195  001      V     C        00:56:31:24 00:56:31:48 00:56:31:24 00:56:31:48
+ |C:ResolveColorYellow |M:keyword 195 |D:24
+
+196  001      V     C        00:56:43:48 00:56:44:28 00:56:43:48 00:56:44:28
+ |C:ResolveColorYellow |M:keyword 196 |D:40
+
+197  001      V     C        00:56:45:11 00:56:45:26 00:56:45:11 00:56:45:26
+ |C:ResolveColorYellow |M:keyword 197 |D:16
+
+198  001      V     C        00:56:45:26 00:56:46:00 00:56:45:26 00:56:46:00
+ |C:ResolveColorYellow |M:keyword 198 |D:34
+
+199  001      V     C        00:57:41:47 00:57:42:00 00:57:41:47 00:57:42:00
+ |C:ResolveColorYellow |M:keyword 199 |D:13
+
+200  001      V     C        00:58:20:00 00:58:20:18 00:58:20:00 00:58:20:18
+ |C:ResolveColorYellow |M:keyword 200 |D:18
+
+201  001      V     C        00:58:22:01 00:58:22:19 00:58:22:01 00:58:22:19
+ |C:ResolveColorRed |M:swear 201 |D:18
+
+202  001      V     C        00:58:44:23 00:58:45:10 00:58:44:23 00:58:45:10
+ |C:ResolveColorYellow |M:keyword 202 |D:47
+
+203  001      V     C        00:59:00:59 00:59:01:14 00:59:00:59 00:59:01:14
+ |C:ResolveColorYellow |M:keyword 203 |D:16
+
+204  001      V     C        00:59:37:26 00:59:38:02 00:59:37:26 00:59:38:02
+ |C:ResolveColorYellow |M:keyword 204 |D:36
+
+205  001      V     C        00:59:41:47 00:59:42:10 00:59:41:47 00:59:42:10
+ |C:ResolveColorYellow |M:keyword 205 |D:23
+
+206  001      V     C        00:59:42:10 00:59:43:19 00:59:42:10 00:59:43:19
+ |C:ResolveColorYellow |M:keyword 206 |D:70
+
+207  001      V     C        00:59:43:19 00:59:43:44 00:59:43:19 00:59:43:44
+ |C:ResolveColorYellow |M:keyword 207 |D:25
+
+208  001      V     C        00:59:52:35 00:59:52:49 00:59:52:35 00:59:52:49
+ |C:ResolveColorYellow |M:keyword 208 |D:14
+
+209  001      V     C        00:59:54:17 00:59:54:54 00:59:54:17 00:59:54:54
+ |C:ResolveColorYellow |M:keyword 209 |D:37
+
+210  001      V     C        00:59:54:54 00:59:55:17 00:59:54:54 00:59:55:17
+ |C:ResolveColorYellow |M:keyword 210 |D:23
+
+211  001      V     C        01:00:30:00 01:00:30:14 01:00:30:00 01:00:30:14
+ |C:ResolveColorYellow |M:keyword 211 |D:14
+
+212  001      V     C        01:00:31:10 01:00:32:08 01:00:31:10 01:00:32:08
+ |C:ResolveColorYellow |M:keyword 212 |D:59
+
+213  001      V     C        01:00:32:08 01:00:32:26 01:00:32:08 01:00:32:26
+ |C:ResolveColorYellow |M:keyword 213 |D:18
+
+214  001      V     C        01:00:32:26 01:00:32:53 01:00:32:26 01:00:32:53
+ |C:ResolveColorYellow |M:keyword 214 |D:26
+
+215  001      V     C        01:00:58:26 01:00:58:50 01:00:58:26 01:00:58:50
+ |C:ResolveColorYellow |M:keyword 215 |D:24
+
+216  001      V     C        01:01:15:58 01:01:16:07 01:01:15:58 01:01:16:07
+ |C:ResolveColorYellow |M:keyword 216 |D:10
+
+217  001      V     C        01:03:20:55 01:03:21:19 01:03:20:55 01:03:21:19
+ |C:ResolveColorRed |M:swear 217 |D:24
+
+218  001      V     C        01:03:45:59 01:03:46:24 01:03:45:59 01:03:46:24
+ |C:ResolveColorYellow |M:keyword 218 |D:25
+
+219  001      V     C        01:03:46:24 01:03:47:24 01:03:46:24 01:03:47:24
+ |C:ResolveColorYellow |M:keyword 219 |D:60
+
+220  001      V     C        01:03:47:24 01:03:47:47 01:03:47:24 01:03:47:47
+ |C:ResolveColorYellow |M:keyword 220 |D:23
+
+221  001      V     C        01:04:08:25 01:04:08:43 01:04:08:25 01:04:08:43
+ |C:ResolveColorYellow |M:keyword 221 |D:18
+
+222  001      V     C        01:04:09:41 01:04:09:43 01:04:09:41 01:04:09:43
+ |C:ResolveColorYellow |M:keyword 222 |D:2
+
+223  001      V     C        01:04:09:50 01:04:10:37 01:04:09:50 01:04:10:37
+ |C:ResolveColorYellow |M:keyword 223 |D:47
+
+224  001      V     C        01:04:10:37 01:04:11:00 01:04:10:37 01:04:11:00
+ |C:ResolveColorYellow |M:keyword 224 |D:23
+
+225  001      V     C        01:04:25:35 01:04:26:32 01:04:25:35 01:04:26:32
+ |C:ResolveColorYellow |M:keyword 225 |D:58
+
+226  001      V     C        01:04:27:11 01:04:27:30 01:04:27:11 01:04:27:30
+ |C:ResolveColorYellow |M:keyword 226 |D:19
+
+227  001      V     C        01:04:27:30 01:04:27:59 01:04:27:30 01:04:27:59
+ |C:ResolveColorYellow |M:keyword 227 |D:29
+
+228  001      V     C        01:04:30:16 01:04:31:13 01:04:30:16 01:04:31:13
+ |C:ResolveColorYellow |M:keyword 228 |D:58
+
+229  001      V     C        01:04:31:58 01:04:32:26 01:04:31:58 01:04:32:26
+ |C:ResolveColorYellow |M:keyword 229 |D:29
+
+230  001      V     C        01:04:32:26 01:04:32:44 01:04:32:26 01:04:32:44
+ |C:ResolveColorYellow |M:keyword 230 |D:18
+
+231  001      V     C        01:07:14:07 01:07:14:52 01:07:14:07 01:07:14:52
+ |C:ResolveColorYellow |M:keyword 231 |D:44
+
+232  001      V     C        01:07:14:52 01:07:15:28 01:07:14:52 01:07:15:28
+ |C:ResolveColorYellow |M:keyword 232 |D:36
+
+233  001      V     C        01:07:38:46 01:07:39:01 01:07:38:46 01:07:39:01
+ |C:ResolveColorYellow |M:keyword 233 |D:16
+
+234  001      V     C        01:08:25:23 01:08:25:54 01:08:25:23 01:08:25:54
+ |C:ResolveColorYellow |M:keyword 234 |D:31
+
+235  001      V     C        01:08:27:08 01:08:27:34 01:08:27:08 01:08:27:34
+ |C:ResolveColorYellow |M:keyword 235 |D:25
+
+236  001      V     C        01:08:27:34 01:08:28:06 01:08:27:34 01:08:28:06
+ |C:ResolveColorYellow |M:keyword 236 |D:32
+
+237  001      V     C        01:08:32:35 01:08:33:01 01:08:32:35 01:08:33:01
+ |C:ResolveColorYellow |M:keyword 237 |D:26
+
+238  001      V     C        01:09:00:37 01:09:01:13 01:09:00:37 01:09:01:13
+ |C:ResolveColorRed |M:swear 238 |D:36
+
+239  001      V     C        01:10:01:38 01:10:02:05 01:10:01:38 01:10:02:05
+ |C:ResolveColorRed |M:swear 239 |D:26
+
+240  001      V     C        01:10:13:10 01:10:13:50 01:10:13:10 01:10:13:50
+ |C:ResolveColorRed |M:swear 240 |D:41
+
+241  001      V     C        01:10:16:06 01:10:16:31 01:10:16:06 01:10:16:31
+ |C:ResolveColorRed |M:swear 241 |D:25
+
+242  001      V     C        01:10:37:01 01:10:37:19 01:10:37:01 01:10:37:19
+ |C:ResolveColorYellow |M:keyword 242 |D:18
+
+243  001      V     C        01:10:37:19 01:10:38:18 01:10:37:19 01:10:38:18
+ |C:ResolveColorYellow |M:keyword 243 |D:59
+
+244  001      V     C        01:10:38:18 01:10:38:42 01:10:38:18 01:10:38:42
+ |C:ResolveColorYellow |M:keyword 244 |D:24
+
+245  001      V     C        01:10:49:12 01:10:51:12 01:10:49:12 01:10:51:12
+ |C:ResolveColorYellow |M:keyword 245 |D:120
+
+246  001      V     C        01:10:51:12 01:10:52:04 01:10:51:12 01:10:52:04
+ |C:ResolveColorYellow |M:keyword 246 |D:52
+
+247  001      V     C        01:10:52:04 01:10:53:34 01:10:52:04 01:10:53:34
+ |C:ResolveColorYellow |M:keyword 247 |D:90
+
+248  001      V     C        01:13:00:48 01:13:01:26 01:13:00:48 01:13:01:26
+ |C:ResolveColorYellow |M:keyword 248 |D:38
+
+249  001      V     C        01:13:01:55 01:13:02:14 01:13:01:55 01:13:02:14
+ |C:ResolveColorYellow |M:keyword 249 |D:19
+
+250  001      V     C        01:13:02:14 01:13:03:00 01:13:02:14 01:13:03:00
+ |C:ResolveColorYellow |M:keyword 250 |D:46
+
+251  001      V     C        01:13:46:32 01:13:46:55 01:13:46:32 01:13:46:55
+ |C:ResolveColorYellow |M:keyword 251 |D:23
+
+252  001      V     C        01:13:46:55 01:13:49:13 01:13:46:55 01:13:49:13
+ |C:ResolveColorYellow |M:keyword 252 |D:138
+
+253  001      V     C        01:13:49:13 01:13:50:13 01:13:49:13 01:13:50:13
+ |C:ResolveColorYellow |M:keyword 253 |D:60
+
+254  001      V     C        01:13:50:13 01:13:50:52 01:13:50:13 01:13:50:52
+ |C:ResolveColorYellow |M:keyword 254 |D:38
+
+255  001      V     C        01:14:15:47 01:14:16:07 01:14:15:47 01:14:16:07
+ |C:ResolveColorRed |M:swear 255 |D:20
+
+256  001      V     C        01:14:27:43 01:14:27:56 01:14:27:43 01:14:27:56
+ |C:ResolveColorYellow |M:keyword 256 |D:13
+
+257  001      V     C        01:14:30:46 01:14:31:16 01:14:30:46 01:14:31:16
+ |C:ResolveColorYellow |M:keyword 257 |D:30
+
+258  001      V     C        01:14:31:16 01:14:31:31 01:14:31:16 01:14:31:31
+ |C:ResolveColorYellow |M:keyword 258 |D:16
+
+259  001      V     C        01:14:35:55 01:14:36:23 01:14:35:55 01:14:36:23
+ |C:ResolveColorYellow |M:keyword 259 |D:28
+
+260  001      V     C        01:14:37:55 01:14:38:18 01:14:37:55 01:14:38:18
+ |C:ResolveColorYellow |M:keyword 260 |D:23
+
+261  001      V     C        01:14:38:18 01:14:39:13 01:14:38:18 01:14:39:13
+ |C:ResolveColorYellow |M:keyword 261 |D:55
+
+262  001      V     C        01:14:48:53 01:14:49:40 01:14:48:53 01:14:49:40
+ |C:ResolveColorYellow |M:keyword 262 |D:47
+
+263  001      V     C        01:15:04:18 01:15:04:44 01:15:04:18 01:15:04:44
+ |C:ResolveColorYellow |M:keyword 263 |D:26
+
+264  001      V     C        01:15:07:47 01:15:08:28 01:15:07:47 01:15:08:28
+ |C:ResolveColorYellow |M:keyword 264 |D:41
+
+265  001      V     C        01:15:09:28 01:15:09:46 01:15:09:28 01:15:09:46
+ |C:ResolveColorYellow |M:keyword 265 |D:18
+
+266  001      V     C        01:15:09:46 01:15:10:07 01:15:09:46 01:15:10:07
+ |C:ResolveColorYellow |M:keyword 266 |D:22
+
+267  001      V     C        01:15:18:17 01:15:18:58 01:15:18:17 01:15:18:58
+ |C:ResolveColorYellow |M:keyword 267 |D:41
+
+268  001      V     C        01:15:19:42 01:15:19:56 01:15:19:42 01:15:19:56
+ |C:ResolveColorYellow |M:keyword 268 |D:14
+
+269  001      V     C        01:15:19:56 01:15:20:29 01:15:19:56 01:15:20:29
+ |C:ResolveColorYellow |M:keyword 269 |D:32
+
+270  001      V     C        01:16:15:30 01:16:15:43 01:16:15:30 01:16:15:43
+ |C:ResolveColorYellow |M:keyword 270 |D:13
+
+271  001      V     C        01:16:19:50 01:16:21:14 01:16:19:50 01:16:21:14
+ |C:ResolveColorYellow |M:keyword 271 |D:84
+
+272  001      V     C        01:16:28:38 01:16:29:20 01:16:28:38 01:16:29:20
+ |C:ResolveColorYellow |M:keyword 272 |D:42
+
+273  001      V     C        01:16:29:20 01:16:30:32 01:16:29:20 01:16:30:32
+ |C:ResolveColorYellow |M:keyword 273 |D:72
+
+274  001      V     C        01:16:30:32 01:16:31:16 01:16:30:32 01:16:31:16
+ |C:ResolveColorYellow |M:keyword 274 |D:43
+
+275  001      V     C        01:16:37:28 01:16:38:18 01:16:37:28 01:16:38:18
+ |C:ResolveColorYellow |M:keyword 275 |D:50
+
+276  001      V     C        01:16:39:41 01:16:39:58 01:16:39:41 01:16:39:58
+ |C:ResolveColorYellow |M:keyword 276 |D:17
+
+277  001      V     C        01:16:39:58 01:16:40:31 01:16:39:58 01:16:40:31
+ |C:ResolveColorYellow |M:keyword 277 |D:34
+
+278  001      V     C        01:16:45:19 01:16:46:10 01:16:45:19 01:16:46:10
+ |C:ResolveColorYellow |M:keyword 278 |D:50
+
+279  001      V     C        01:16:47:05 01:16:47:23 01:16:47:05 01:16:47:23
+ |C:ResolveColorYellow |M:keyword 279 |D:18
+
+280  001      V     C        01:16:47:23 01:16:47:42 01:16:47:23 01:16:47:42
+ |C:ResolveColorYellow |M:keyword 280 |D:19
+
+281  001      V     C        01:16:48:46 01:16:49:18 01:16:48:46 01:16:49:18
+ |C:ResolveColorYellow |M:keyword 281 |D:32
+
+282  001      V     C        01:16:50:08 01:16:50:26 01:16:50:08 01:16:50:26
+ |C:ResolveColorYellow |M:keyword 282 |D:18
+
+283  001      V     C        01:16:50:26 01:16:50:55 01:16:50:26 01:16:50:55
+ |C:ResolveColorYellow |M:keyword 283 |D:29
+
+284  001      V     C        01:17:16:56 01:17:17:08 01:17:16:56 01:17:17:08
+ |C:ResolveColorYellow |M:keyword 284 |D:12
+
+285  001      V     C        01:17:23:14 01:17:23:41 01:17:23:14 01:17:23:41
+ |C:ResolveColorYellow |M:keyword 285 |D:26
+
+286  001      V     C        01:17:25:34 01:17:26:00 01:17:25:34 01:17:26:00
+ |C:ResolveColorYellow |M:keyword 286 |D:26
+
+287  001      V     C        01:17:27:31 01:17:27:58 01:17:27:31 01:17:27:58
+ |C:ResolveColorYellow |M:keyword 287 |D:26
+
+288  001      V     C        01:17:29:46 01:17:30:17 01:17:29:46 01:17:30:17
+ |C:ResolveColorRed |M:swear 288 |D:31
+
+289  001      V     C        01:17:30:17 01:17:30:37 01:17:30:17 01:17:30:37
+ |C:ResolveColorYellow |M:keyword 289 |D:20
+
+290  001      V     C        01:17:32:40 01:17:32:56 01:17:32:40 01:17:32:56
+ |C:ResolveColorYellow |M:keyword 290 |D:17
+
+291  001      V     C        01:17:34:47 01:17:35:10 01:17:34:47 01:17:35:10
+ |C:ResolveColorYellow |M:keyword 291 |D:23
+
+292  001      V     C        01:17:35:10 01:17:35:34 01:17:35:10 01:17:35:34
+ |C:ResolveColorYellow |M:keyword 292 |D:24
+
+293  001      V     C        01:17:42:32 01:17:43:04 01:17:42:32 01:17:43:04
+ |C:ResolveColorYellow |M:keyword 293 |D:31
+
+294  001      V     C        01:17:43:48 01:17:44:04 01:17:43:48 01:17:44:04
+ |C:ResolveColorYellow |M:keyword 294 |D:16
+
+295  001      V     C        01:17:44:04 01:17:44:34 01:17:44:04 01:17:44:34
+ |C:ResolveColorYellow |M:keyword 295 |D:30
+
+296  001      V     C        01:18:24:14 01:18:24:36 01:18:24:14 01:18:24:36
+ |C:ResolveColorRed |M:swear 296 |D:22
+
+297  001      V     C        01:18:27:01 01:18:27:26 01:18:27:01 01:18:27:26
+ |C:ResolveColorYellow |M:keyword 297 |D:25
+
+298  001      V     C        01:18:30:19 01:18:31:23 01:18:30:19 01:18:31:23
+ |C:ResolveColorYellow |M:keyword 298 |D:64
+
+299  001      V     C        01:18:31:23 01:18:32:08 01:18:31:23 01:18:32:08
+ |C:ResolveColorYellow |M:keyword 299 |D:46
 

@@ -1,6 +1,15 @@
-swears = ["fuck", "shit"]
-keywords = ["max", "video"]
-edlTitle = "bbnos RAW"
+swears = ["fuck", "cunt"]
+keywords = [
+    "spawning", "forest", "flower", "birch", "dark", "garden", "cherry", 
+    "taiga", "pine", "spruce", "jungle", "sparse", "bamboo", "meadow", 
+    "grove", "snow", "peak", "hill", "plains", "sunflower", "desert", 
+    "savanna", "bad", "mushroom", "ice", "spikes", "swamp", "man", 
+    "river", "frozen", "beach", "shore", "ocean", "deep", "lush", 
+    "drip", "cave", "nether", "crimson", "warped", "basalt", "end"
+]
+edlTitle = "sayBiome"
+inputFilePath = "CLEAN_AUDIO.srt"
+outputFilePath = "output.edl"
 fps = 60
 markingColors = {"swear": "Red", "keyword": "Yellow"}
 markers = []
@@ -25,13 +34,14 @@ def tcToTs(timecode):
     timestamp += f":{str(round(int(timecode[9:12])/1000*fps)).zfill(len(str(fps)))}"
     return timestamp
 
-with open("Subtitle 1.srt") as f:
+with open(inputFilePath) as f:
     file = f.read()
-    captions = file.split("\n\n")
+    captions = (file.split("\n\n"))[:-2]
 
 for caption in captions:
     parts = caption.split("\n")
-    content = parts[2][3:-4]
+    # content = parts[2][3:-4]
+    content = parts[2]
     if contains(swears, content):
         marking = "swear"
     elif contains(keywords, content):
@@ -55,6 +65,6 @@ for m in markers:
     edlTxt += f"{str(i).zfill(3)}  001      V     C        {tcToTs(m["timeIn"])} {tcToTs(m["timeOut"])} {tcToTs(m["timeIn"])} {tcToTs(m["timeOut"])}\n"
     edlTxt += f" |C:ResolveColor{markingColors.get(m["marking"])} |M:{m["marking"]} {i} |D:{getDuration(m["timeIn"], m["timeOut"])}\n\n"
 
-with open("output.edl", "w") as f:
+with open(outputFilePath, "w") as f:
     f.write(edlTxt)
     f.close()
