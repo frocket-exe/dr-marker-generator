@@ -1,0 +1,9 @@
+TITLE: bbnos RAW
+FCM: NON-DROP FRAME
+
+001  001      V     C        00:00:01:36 00:00:01:37 00:00:01:36 00:00:01:37  
+ |C:ResolveColorBlue |M:Marker 1 |D:61
+
+002  001      V     C        00:00:13:28 00:00:13:29 00:00:13:28 00:00:13:29  
+ |C:ResolveColorPurple |M:Marker 2 |D:121
+
