@@ -1,6 +1,10 @@
 import re
 
-with open("CLEAN_AUDIO.srt") as f:
+keepCap = ["I", "Kohl", "I'm", "I've", "I'd"]
+puncToRemove = r'[.!",;]'
+unsanitisedPath = "CLEAN_AUDIO.srt"
+
+with open(unsanitisedPath) as f:
     file = f.read()
 
 file = file[:-2]
@@ -8,11 +12,11 @@ lines = file.split("\n\n")
 newLines = ""
 for line in lines:
     content = line.split("\n")[2]
-    if content.lower() in ["i", "kohl", "i'm", "i've", "i'd"]:
+    if content.capitalize() in keepCap:
         content = content.capitalize()
     else:
         content = content.lower()
-    content = re.sub(r'[.!",;]', '', content)
+    content = re.sub(puncToRemove, '', content)
     line = f"{line.split("\n")[0]}\n{line.split("\n")[1]}\n{content}"
     newLines += (line)
     newLines += ("\n\n")

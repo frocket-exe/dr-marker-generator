@@ -3,7 +3,7 @@ keywords = [
     "spawning", "forest", "flower", "birch", "dark", "garden", "cherry", 
     "taiga", "pine", "spruce", "jungle", "sparse", "bamboo", "meadow", 
     "grove", "snow", "peak", "hill", "plains", "sunflower", "desert", 
-    "savanna", "bad", "mushroom", "ice", "spikes", "swamp", "man", 
+    "savanna", "bad", "mushroom", "ice", "spikes", "swamp", "void", 
     "river", "frozen", "beach", "shore", "ocean", "deep", "lush", 
     "drip", "cave", "nether", "crimson", "warped", "basalt", "end"
 ]
@@ -13,6 +13,8 @@ outputFilePath = "output.edl"
 fps = 60
 markingColors = {"swear": "Red", "keyword": "Yellow"}
 markers = []
+swearCount = 0
+keywordCount = 0
 
 def getDuration(tIn, tOut):
     hours = int(tOut[0:2]) - int(tIn[0:2])
@@ -62,8 +64,14 @@ edlTxt = edlHeader
 i = 0
 for m in markers:
     i += 1
+    if m["marking"] == "swear":
+        swearCount += 1
+        count = swearCount
+    if m["marking"] == "keyword":
+        keywordCount += 1
+        count = keywordCount
     edlTxt += f"{str(i).zfill(3)}  001      V     C        {tcToTs(m["timeIn"])} {tcToTs(m["timeOut"])} {tcToTs(m["timeIn"])} {tcToTs(m["timeOut"])}\n"
-    edlTxt += f" |C:ResolveColor{markingColors.get(m["marking"])} |M:{m["marking"]} {i} |D:{getDuration(m["timeIn"], m["timeOut"])}\n\n"
+    edlTxt += f" |C:ResolveColor{markingColors.get(m["marking"])} |M:{m["marking"]} {count} |D:{getDuration(m["timeIn"], m["timeOut"])}\n\n"
 
 with open(outputFilePath, "w") as f:
     f.write(edlTxt)
