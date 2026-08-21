@@ -10,3 +10,12 @@ whisper "C:\CurrentVid\sayBiome\CLEAN_AUDIO.wav" ^
 --temperature 0 ^
 --condition_on_previous_text False
 --initial_prompt "The content creator's name is Kohl. Kohl is pronounced like coal/Cole. This is a Minecraft Twitch livestream. Minecraft terms include biome, biomes, plains, desert, jungle, savanna, taiga, swamp, mangrove swamp, badlands, cherry grove, pale garden, ocean, river, forest, and mountains. Canadian spelling is used, including colour, flavour, centre, and theatre."
+
+
+whisperx "C:\Users\foefi\OneDrive\Documents\Code\dr-marker-generator\srt test.wav" ^
+--model large-v2 ^
+--device cuda ^
+--compute_type float16 ^
+--language en ^
+--output_format json ^
+--output_dir "C:\Users\foefi\OneDrive\Documents\Code\dr-marker-generator\"
